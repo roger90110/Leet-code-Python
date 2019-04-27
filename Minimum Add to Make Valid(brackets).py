@@ -1,6 +1,8 @@
 def minAddToMakeValid(S):
-// Input: "())"
-// Output: 1
+''' 
+     Input: "())"
+     Output: 1  the 3rd position ")" has not been closed therefore 1 is the answer
+'''
      count = 0
      stack = []
         
